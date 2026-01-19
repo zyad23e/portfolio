@@ -1,0 +1,77 @@
+
+.progress-bar {
+    width: 100%;
+    border-radius: 5px;
+    padding: 3px;
+  }
+  
+  .progress {
+    background-color: #4caf50;
+    height: 20px;
+    border-radius: 5px;
+    width: 0;
+  }
+
+  .spring-progress .progress {
+    background-color: #ffd700;
+  }
+  
+  .java-progress .progress {
+    background-color: #FF8C00;
+  }
+  .c-progress .progress {
+    background-color: #008080;
+  }
+
+  .maven-progress .progress {
+    background-color: #c5b0d5;
+  }
+
+  .sql-progress .progress {
+    background-color: #2ecc71;
+  }
+
+  .python-progress .progress {
+    background-color: #8e44ad;
+  }
+
+  .web-progress .progress {
+    background-color: #34495e;
+  }
+  
+  .jdbc-progress .progress {
+    background-color: #1a237e;
+  }
+
+  .security-progress .progress {
+    background-color: #61DAFB;
+  }
+
+  .aws-progress .progress {
+    background-color: #232F3E;
+  }
+
+  .thymeleaf-progress .progress {
+    background-color: #333333;
+  }
+
+  .postman-progress .progress {
+    background-color: #FF6C37;
+  }
+
+  .github-progress .progress {
+    background-color: #181717;
+  }
+  .rest-progress .progress {
+    background-color: #98FF98;
+  }
+
+  .jpa-progress .progress {
+    background-color:  #ef5b65;
+  }
+
+  .language-info {
+  margin-left: 10px;
+  color: #fff; 
+}
+  
