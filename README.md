@@ -4,7 +4,7 @@ My personal portfolio website showcasing selected projects, skills, and experien
 
 Built with React and Sass, and deployed on Vercel.
 
-🌐 Live site: https://zyad23e-portfolio.vercel.app/
+🌐 Live site: https://zyadelmaghraby-portfolio.vercel.app/
 
 ## Tech Stack
 - React
