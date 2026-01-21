@@ -4,7 +4,7 @@
             "cover": "/portfolio/jobportal.png", 
             "title": "Job Portal", 
             "description": "Spring Boot, MySQL, Thymeleaf", 
-            "url": "https://github.com/zyad23e/spring-boot-job-portal"
+            "url": "http://job-portal-env.eba-g3y2ufbh.us-west-1.elasticbeanstalk.com/"
         }
     ]
 }
