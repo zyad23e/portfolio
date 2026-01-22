@@ -5,7 +5,7 @@
             "title": "Job Portal", 
             "description": "Spring Boot, MySQL, Thymeleaf, AWS (EC2)", 
             "url": "http://job-portal-env.eba-g3y2ufbh.us-west-1.elasticbeanstalk.com/"
-        }
+        },
         {
             "cover": "/portfolio/social-api.png", 
             "title": "Social Platform API", 
