@@ -11,6 +11,12 @@
             "title": "Social Platform API", 
             "description": "Spring Boot, RESTful APIs, MySQL, Hibernate", 
             "url": "https://github.com/zyad23e/spring-boot-api"
+        },
+        {
+            "cover": "/portfolio/wordle.png", 
+            "title": "Wordle", 
+            "description": "Spring Boot, React, MySQL", 
+            "url": "https://github.com/zyad23e/wordle"
         }
     ]
 }
