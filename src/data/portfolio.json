@@ -23,12 +23,6 @@
             "title": "Social Platform API", 
             "description": "Spring Boot, RESTful APIs, MySQL, Hibernate", 
             "url": "https://github.com/zyad23e/spring-boot-api"
-        },
-        {
-            "cover": "/portfolio/mp3.png", 
-            "title": "MP3 Player", 
-            "description": "Java, JavaFX, Serialization", 
-            "url": "https://github.com/zyad23e/myMP3"
         }
     ]
 }
