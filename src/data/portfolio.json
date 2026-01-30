@@ -3,8 +3,14 @@
         {
             "cover": "/portfolio/jobportal.png", 
             "title": "Job Portal", 
-            "description": "Spring Boot, MySQL, Thymeleaf, AWS (EC2)", 
+            "description": "Spring Boot, MySQL, Thymeleaf", 
             "url": "http://job-portal-env.eba-g3y2ufbh.us-west-1.elasticbeanstalk.com/"
+        },
+        {
+            "cover": "/portfolio/coach.png", 
+            "title": "Coach Marketplace", 
+            "description": "Spring Boot, MySQL, AWS(EC2)", 
+            "url": "https://github.com/zyad23e/myMP3"
         },
         {
             "cover": "/portfolio/wordle.png", 
