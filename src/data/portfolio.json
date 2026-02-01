@@ -15,13 +15,13 @@
         {
             "cover": "/portfolio/wordle.png", 
             "title": "Wordle", 
-            "description": "Spring Boot, React, MySQL, Railway", 
+            "description": "Spring Boot, React, MySQL", 
             "url": "https://wordle-jmny3s1m9-zyad23es-projects.vercel.app/"
         },
         {
             "cover": "/portfolio/social-api.png", 
             "title": "Social Platform API", 
-            "description": "Spring Boot, RESTful APIs, MySQL, Hibernate", 
+            "description": "Spring Boot, MySQL, Hibernate", 
             "url": "https://github.com/zyad23e/spring-boot-api"
         }
     ]
