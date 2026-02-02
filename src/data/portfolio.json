@@ -10,7 +10,7 @@
             "cover": "/portfolio/coach.png", 
             "title": "Coach Marketplace", 
             "description": "Spring Boot, MySQL, AWS(EC2)", 
-            "url": "https://github.com/zyad23e/myMP3"
+            "url": "http://coach-marketplace.us-east-1.elasticbeanstalk.com/"
         },
         {
             "cover": "/portfolio/wordle.png", 
