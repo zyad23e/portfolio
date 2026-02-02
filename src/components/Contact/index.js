@@ -57,7 +57,7 @@ const Contact = () => {
                                     Thank you for your interest in getting in touch! 
                                     <br/>
                                     <br/>Interested in my work or want to talk about a backend opportunity?
-I’m happy to connect about Java, Spring Boot, or potential roles—send me a message and I’ll get back to you.
+I’m happy to connect about Java, Spring Boot, or potential roles. Please don't hesitate to get in touch with me by filling out the contact form.
                                     <br/>
                                     <br/>
                                     <a target = "_blank" rel = "noreferrer" href = "https://www.linkedin.com/in/zyadelma/">
