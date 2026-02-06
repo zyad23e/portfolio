@@ -2,7 +2,7 @@
     "portfolio": [
         {
             "cover": "/portfolio/jobportal.png", 
-            "title": "Job Portal", 
+            "title": "Career Portal", 
             "description": "Spring Boot, MySQL, Thymeleaf", 
             "url": "http://careerportal.click"
         },
