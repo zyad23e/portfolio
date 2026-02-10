@@ -30,6 +30,7 @@ const About = () => {
                     <p>
                     I’m a full-stack software engineer who builds complete, production-ready web applications using Java, Spring Boot, React, and SQL. I focus on creating intuitive user interfaces backed by secure, scalable APIs and well-designed databases. My work centers on real-world systems with authentication, data management, and cloud deployment.
                     <br/>
+                    <TechList />
                     <Link to="/about" className="flat-button">CORE FULL-STACK SKILLS</Link>
                     <br/>
                     <Link to="/about/dev" className="flat-button">DEVELOPMENT TOOLS</Link>
