@@ -6,8 +6,8 @@ const LanguageList = () => {
   const [skills] = useState([
     { name: "Java", level: "Primary", progress: 100, className: "java-progress"}, 
     { name: "Spring Boot", level: "Primary", progress: 85, className: "python-progress"}, 
-    { name: "SQL (MySQL)", level: "Proficient", progress: 80, className: "web-progress"}, 
-    { name: "Python", level: "Proficient", progress: 70, className: "sql-progress"}
+    { name: "React", level: "Proficient", progress: 80, className: "web-progress"}, 
+    { name: "SQL (MySQL)", level: "Proficient", progress: 70, className: "sql-progress"}
   ]);
 
   return (

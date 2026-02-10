@@ -6,7 +6,7 @@ const TechList = () => {
   const [devs] = useState([
     { name: "Git", level: "Proficient", progress: 90, className: "github-progress"},
     { name: "Postman", level: "Proficient", progress: 80, className: "postman-progress"},
-    { name: "Amazon Web Services (AWS)", level: "Familiar", progress: 55, className: "aws-progress"}
+    { name: "Amazon Web Services (AWS)", level: "Working Knowledge", progress: 65, className: "aws-progress"}
   ]);
 
   return (
