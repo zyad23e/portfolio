@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPython, faCss3, faJava, faHtml5, faAws, faGit } from "@fortawesome/free-brands-svg-icons";
 import Loader from "react-loaders";
+import TechList from "../TechList";
 
 const About = () => {
     
