@@ -5,12 +5,13 @@ const Timeline = () => {
   const [events, setEvents] = useState([
     {
       date: 'June 2024 - January 2025',
-      title: 'Revature - Java Intern',
+      title: 'Revature - Java Software Engineer Intern',
       description: [
-        'Completed an intensive backend-focused training program using <b>Java</b> and <b>Spring Boot</b>, emphasizing object-oriented design, clean code, and application architecture',
-        'Developed RESTful APIs and backend services, implementing CRUD operations and handling request/response workflows',
-        'Worked with relational databases using <b>SQL</b> and basic data modeling concepts, integrating persistence layers into Spring-based applications',
-        'Used <b>Git/GitHub</b> for version control and collaborated in an agile training environment with code reviews, technical assessments, and team-based projects'
+        'Completed an intensive software engineering program focused on building full-stack web applications using Java, Spring Boot, REST APIs, and modern web technologies.',
+        'Developed backend services and integrated them with user-facing components to support complete application workflows.',
+        'Built and tested RESTful APIs supporting CRUD operations, authentication, and data validation.',
+        'Designed and integrated relational databases using SQL and Spring Data JPA.',
+        'Used Git/GitHub for version control and collaborated in Agile team environments through code reviews, sprint planning, and technical assessments.'
       ],
       expanded: false,
     }
