@@ -12,7 +12,7 @@ const LanguageList = () => {
 
   return (
     <div>
-      <h2>Core Backend Skills</h2>
+      <h2>Core Full-Stack Skills</h2>
       <ul>
         {skills.map((skill, index) => (
           <li key={index}>

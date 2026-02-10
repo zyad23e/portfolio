@@ -29,10 +29,10 @@ const About = () => {
                         <AnimatedLetters letterClass={letterClass}  strArray = {"About me".split("")} idx={15}/>
                     </h1>
                     <p>
-                    I’m a software engineer with a focus on backend development, primarily using Java and Spring Boot. I enjoy working on real-world problems involving APIs, databases, and application security.
+                    I’m a software engineer with a focus on full-stack development, building end-to-end applications using Java, Spring Boot, and modern front-end tools. I enjoy solving real-world problems involving APIs, databases, security, and user-focused design.
                     <br/>
                     <DevList />
-                    <Link to="/about" className="flat-button">CORE BACKEND SKILLS</Link>
+                    <Link to="/about" className="flat-button">CORE FULL-STACK SKILLS</Link>
                     <br/>
                     <Link to="/about/tech" className="flat-button">FRAMEWORKS/TECHNOLOGIES</Link>
                     </p>

@@ -56,7 +56,7 @@ const Contact = () => {
                                     <br/>
                                     Thank you for your interest in getting in touch! 
                                     <br/>
-                                    <br/>Interested in my work or want to talk about a backend opportunity?
+                                    <br/>Interested in my work or want to talk about a full-stack opportunity?
 I’m happy to connect about Java, Spring Boot, or potential roles. Please don't hesitate to get in touch with me by filling out the contact form.
                                     <br/>
                                     <br/>
