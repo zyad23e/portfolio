@@ -4,13 +4,13 @@
             "cover": "/portfolio/jobportal.png", 
             "title": "Career Portal", 
             "description": "Spring Boot, MySQL, Thymeleaf", 
-            "url": "http://careerportal.click"
+            "url": "https://github.com/zyad23e/spring-boot-career-portal"
         },
         {
             "cover": "/portfolio/coach.png", 
             "title": "Coach Marketplace", 
             "description": "Spring Boot, MySQL, AWS(EC2)", 
-            "url": "http://coach-marketplace.us-east-1.elasticbeanstalk.com/"
+            "url": "https://github.com/zyad23e/coach-marketplace"
         },
         {
             "cover": "/portfolio/wordle.png", 
